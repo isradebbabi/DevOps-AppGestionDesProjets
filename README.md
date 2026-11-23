@@ -222,6 +222,8 @@ pipeline {
 | CI/CD | Jenkins |
 | Conteneurisation | Docker *(à venir)* |
 
+test
+
 ---
 
 ## 👤 Auteur
